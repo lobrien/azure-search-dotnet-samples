@@ -4,7 +4,7 @@ languages:
   - csharp
 name: Quickstart in C#
 description: |
-  .NET Core console C# sample for Azure Search, demonstrating index definition, data ingestion, and query execution.
+| Learn basic steps for creating, loading, and querying an Azure Search index using C# and .NET Core.
 products:
   - azure
   - azure-search
